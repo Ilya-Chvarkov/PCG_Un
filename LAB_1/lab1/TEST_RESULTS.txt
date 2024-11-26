@@ -1,0 +1,12 @@
+********* Start testing of Tester *********
+Config: Using QtTest library 6.7.0, Qt 6.7.0 (x86_64-little_endian-llp64 shared (dynamic) release build; by GCC 11.2.0), windows 11
+PASS   : Tester::initTestCase()
+PASS   : Tester::testRGBToCMYKConversionIntoSliders()
+PASS   : Tester::testRGBToCMYKConversionIntoBoxes()
+PASS   : Tester::testCMYKToHLSConversionIntoSliders()
+PASS   : Tester::testCMYKToHLSConversionIntoBoxes()
+PASS   : Tester::testHLSToRGBConversionIntoSliders()
+PASS   : Tester::testHLSToRGBConversionIntoBoxes()
+PASS   : Tester::cleanupTestCase()
+Totals: 8 passed, 0 failed, 0 skipped, 0 blacklisted, 10ms
+********* Finished testing of Tester *********
